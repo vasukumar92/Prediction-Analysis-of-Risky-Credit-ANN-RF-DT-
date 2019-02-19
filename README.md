@@ -1,0 +1,2 @@
+# Prediction-Analysis-of-Risky-Credit-ANN-RF-DT-
+The original dataset contains 1000 entries with 20 categorial/symbolic attributes prepared by Prof. Hofmann. In this dataset, each entry represents a person who takes a credit by a bank. Each person is classified as good or bad credit risks according to the set of attributes. The objective of the problem is to develop a model for correctly identifying the credit risk of a customer for a bank.
